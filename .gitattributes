@@ -1,0 +1,4 @@
+K562-training.feather filter=lfs diff=lfs merge=lfs -text
+GM12878-training.feather filter=lfs diff=lfs merge=lfs -text
+HeLa-S3-training.feather filter=lfs diff=lfs merge=lfs -text
+IMR-90-training.feather filter=lfs diff=lfs merge=lfs -text
